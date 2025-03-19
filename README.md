@@ -1,4 +1,4 @@
-# MyLang Tokenizer and NFA to DFA Conversion
+# Compiler Construction
 
 ## Overview
 This project consists of two main components:
